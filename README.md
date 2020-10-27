@@ -1,9 +1,2 @@
 # asdfg.io
-void main()
-{
-    printf("Hello, Markdown.");
-}
-void main()
-{
-    printf("Hello, Markdown.");
-}
+这是我的仓库
