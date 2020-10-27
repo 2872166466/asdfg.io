@@ -1,6 +1,9 @@
 # asdfg.io
-#这是一个一级标题
-##这是一个二级标题
-###这是一个三级标题
-####这是一个四级标题
-#####zheshiyige
+void main()
+{
+    printf("Hello, Markdown.");
+}
+void main()
+{
+    printf("Hello, Markdown.");
+}
